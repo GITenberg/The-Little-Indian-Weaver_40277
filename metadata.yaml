@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38210'
     url: http://www.gutenberg.org/2009/agents/38210
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40277#The-Little-Indian-Weaver
 gutenberg_issued: '2012-07-19'
 gutenberg_type: Text
 identifiers:
